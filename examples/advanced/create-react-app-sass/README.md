@@ -1,6 +1,24 @@
-## TODO!!
+## Consume Style Dictionary properties in React as Sass variables
+
+Reference: https://blog.bitsrc.io/how-to-use-sass-and-css-modules-with-create-react-app-83fa8b805e5e
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#### Running the example
+
+First of all, set up the required dependencies running the command `npm install` in your local CLI environment (if you prefer to use *yarn* update the commands accordingly).
+
+At this point, run `npm run build`. This command will generate the files in the `build` folder.
+
+#### How does it work
+
+----------------------------
+----------------------------
+
+Original CRA Readme
+
 
 ## Available Scripts
 
